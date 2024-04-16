@@ -1,0 +1,53 @@
+{
+    "import": {
+        "className": "Espo\\Classes\\ConsoleCommands\\Import",
+        "listed": true
+    },
+    "clearCache": {
+        "listed": true
+    },
+    "rebuild": {
+        "listed": true
+    },
+    "updateAppTimestamp": {
+        "listed": true
+    },
+    "appInfo": {
+        "listed": true
+    },
+    "setPassword": {
+        "listed": true
+    },
+    "upgrade": {
+        "listed": true
+    },
+    "extension": {
+        "listed": true
+    },
+    "runJob": {
+        "listed": true
+    },
+    "version": {
+        "listed": true
+    },
+    "createAdminUser": {
+        "className": "Espo\\Classes\\ConsoleCommands\\CreateAdminUser",
+        "listed": true
+    },
+    "rebuildCategoryPaths": {
+        "className": "Espo\\Classes\\ConsoleCommands\\RebuildCategoryPaths",
+        "listed": true
+    },
+    "populateArrayValues": {
+        "className": "Espo\\Classes\\ConsoleCommands\\PopulateArrayValues",
+        "listed": true
+    },
+    "populateNumbers": {
+        "className": "Espo\\Classes\\ConsoleCommands\\PopulateNumbers",
+        "listed": false
+    },
+    "checkFilePermissions": {
+        "className": "Espo\\Classes\\ConsoleCommands\\CheckFilePermissions",
+        "listed": true
+    }
+}

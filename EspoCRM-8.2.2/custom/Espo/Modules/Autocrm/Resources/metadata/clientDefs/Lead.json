@@ -1,0 +1,5 @@
+{
+  "views": {
+    "detail": "crm:views/lead/detail"
+  }
+}
