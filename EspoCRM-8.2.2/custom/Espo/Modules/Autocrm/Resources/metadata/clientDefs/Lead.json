@@ -1,5 +1,5 @@
 {
   "views": {
-    "detail": "crm:views/lead/detail"
+    "detail": "custom:views/lead/detail"
   }
 }
